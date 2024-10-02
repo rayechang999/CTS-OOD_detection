@@ -4,7 +4,7 @@ This project provides an example of using OOD detection on a real-world, medical
 
 The vast majority of the code is copied over from the [winning algorithm's repository](https://github.com/GuanLab/Predict-Malaria-ART-Resistance/tree/master), with light modifications to allow for validation on an *in vivo* dataset.
 
-We provide a Jupyter notebook (`tutorial.ipynb`) with a step-by-step tutorial on using OOD detection for this task. We also provide the raw training and validation data (`SubCh2_TrainingData_imputed.csv`). All the other files are from the winning algorithm's repository.
+We provide a Jupyter notebook (`tutorial.ipynb`) with a step-by-step tutorial on using OOD detection for this task. We also provide the raw training and validation data (from [Mok. et. al](https://doi.org/doi:10.1126/science.1260403)). All the other files are from the winning algorithm's repository.
 
 ## Getting started
 
